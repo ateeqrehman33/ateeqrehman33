@@ -53,6 +53,15 @@
 
 
 
+<h2> 📈 &nbsp;My GitHub History!</h2>
+
+![Snake animation](https://github.com/ateeqrehman33/ateeqrehman33/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+
 
 <!--
 **ateeqrehman33/ateeqrehman33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

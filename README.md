@@ -22,13 +22,9 @@
 </a>
 </p>
 
-
 <p align="center">
-  
-    <img height="50" src="![jett](https://user-images.githubusercontent.com/46771978/231142927-7e43f37c-cccb-4279-b98d-95a58b43f6c8.gif)"/>
-  
+  <img src= "https://user-images.githubusercontent.com/46771978/231143257-d4293cf1-721d-4b15-b228-7c3f952c83cf.gif">
 </p>
-
 
 
 

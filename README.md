@@ -23,7 +23,11 @@
 </p>
 
 
+<p align="center">
 ![jett](https://user-images.githubusercontent.com/46771978/231142601-7c094b97-5334-4f03-b48d-22ee21b10412.gif)
+</p>
+
+
 
 
 

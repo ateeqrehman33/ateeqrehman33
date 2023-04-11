@@ -55,7 +55,7 @@
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ateeqrehman33)](https://github.com/ateeqrehman33/github-readme-stats&count_private=true&show_icons=truetheme=synthwave)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ateeqrehman33&count_private=true&show_icons=truetheme=synthwave)](https://github.com/ateeqrehman33/github-readme-stats)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>

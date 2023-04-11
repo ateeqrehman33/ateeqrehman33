@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hello,%Welcome!&height=150&section=header"/>
 </p>
 
+
 <h1 align="center">
   Let's Connect and talk code! 🖥
 </h1>
@@ -22,9 +23,11 @@
 </a>
 </p>
 
+
 <p align="center">
   <img src= "https://user-images.githubusercontent.com/46771978/231143257-d4293cf1-721d-4b15-b228-7c3f952c83cf.gif">
 </p>
+
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -60,8 +63,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ateeqrehman33)](https://github.com/ateeqrehman33/github-readme-stats)
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/ateeqrehman33/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
   
 <p align="left">

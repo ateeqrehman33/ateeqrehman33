@@ -27,6 +27,31 @@
 </p>
 
 
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/android/android-original-wordmark.svg" alt="Android" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original-wordmark.svg" alt="Android Studio" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-plain-wordmark.svg" alt="Java" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-plain-wordmark.svg" alt="Kotlin" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-plain-wordmark.svg" alt="SQLite" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original-wordmark.svg" alt="Tensorflow" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+</p>
+
+
 
 
 <!--

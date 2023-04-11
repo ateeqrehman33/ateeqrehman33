@@ -59,6 +59,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ateeqrehman33)](https://github.com/ateeqrehman33/github-readme-stats)
 
+
+![Snake animation](https://github.com/thepiyushmalhotra/ateeqrehman33/blob/output/github-contribution-grid-snake.svg)
+
+
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>

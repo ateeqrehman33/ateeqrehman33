@@ -24,7 +24,9 @@
 
 
 <p align="center">
-![jett](https://user-images.githubusercontent.com/46771978/231142601-7c094b97-5334-4f03-b48d-22ee21b10412.gif)
+  
+    <img height="50" src="![jett](https://user-images.githubusercontent.com/46771978/231142927-7e43f37c-cccb-4279-b98d-95a58b43f6c8.gif)"/>
+  
 </p>
 
 

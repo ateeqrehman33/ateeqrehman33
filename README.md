@@ -55,11 +55,12 @@
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
-![Snake animation](https://github.com/ateeqrehman33/ateeqrehman33/blob/output/github-contribution-grid-snake.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ateeqrehman33)](https://github.com/ateeqrehman33/github-readme-stats)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
 
 
 

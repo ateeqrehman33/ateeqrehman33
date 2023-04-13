@@ -70,14 +70,7 @@
 </picture>
 
 
-<h2> 💬  &nbsp;Feedbacks!</h2>
 
-![IMG_3411](https://user-images.githubusercontent.com/46771978/231679034-c27df8c7-54ca-443c-b8ea-e450201f1ce6.jpg)
-![IMG_3412](https://user-images.githubusercontent.com/46771978/231679055-69aada60-7296-4c4d-87c1-17364c395ac9.jpg)
-![IMG_3413](https://user-images.githubusercontent.com/46771978/231679073-7af4ff7c-7151-4bc7-ab08-eeadd43fa553.jpg)
-![IMG_3414](https://user-images.githubusercontent.com/46771978/231679091-39d49719-11fb-421b-a221-19f89bdbd5eb.jpg)
-
-  
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
